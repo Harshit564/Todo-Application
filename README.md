@@ -22,5 +22,5 @@ Project is based on Firebase Google sign-in/sign-out and then a To-do applicatio
 
     1) Open the file at the root directory
     2) Code your modifications in the project
-
+=> Run the project by simply installing the apk file on your android phones.
 <br>
